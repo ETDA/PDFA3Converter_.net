@@ -1,0 +1,1 @@
+PDFALib.exe -inputFile "Unit_Test/T01/Input_PDF/PDFTest.pdf" -outputFile "Unit_Test/T01/Output/INV101-2569.pdf" -embedFile "Unit_Test/T01/Input_XML/ETDA-invoice.xml" -colorProfile "Unit_Test/T01/Color_Profile/sRGB_CS_profile.icm" -font "Unit_Test/T01/Font/"
