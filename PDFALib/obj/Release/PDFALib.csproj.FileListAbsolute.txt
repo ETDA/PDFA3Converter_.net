@@ -1,0 +1,48 @@
+C:\Users\PhatiphanEmkovit\source\repos\PDFALib\PDFALib\bin\Release\PDFALib.exe
+C:\Users\PhatiphanEmkovit\source\repos\PDFALib\PDFALib\bin\Release\PDFALib.pdb
+C:\Users\PhatiphanEmkovit\source\repos\PDFALib\PDFALib\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\PhatiphanEmkovit\source\repos\PDFALib\PDFALib\bin\Release\itextsharp.dll
+C:\Users\PhatiphanEmkovit\source\repos\PDFALib\PDFALib\bin\Release\itextsharp.xml
+C:\Users\PhatiphanEmkovit\source\repos\PDFALib\PDFALib\obj\Release\PDFALib.csprojAssemblyReference.cache
+C:\Users\PhatiphanEmkovit\source\repos\PDFALib\PDFALib\obj\Release\PDFALib.csproj.CoreCompileInputs.cache
+C:\Users\PhatiphanEmkovit\source\repos\PDFALib\PDFALib\obj\Release\PDFALib.csproj.CopyComplete
+C:\Users\PhatiphanEmkovit\source\repos\PDFALib\PDFALib\obj\Release\PDFALib.exe
+C:\Users\PhatiphanEmkovit\source\repos\PDFALib\PDFALib\obj\Release\PDFALib.pdb
+C:\Users\PhatiphanEmkovit\source\repos\PDFALib\PDFALib\bin\Release\Newtonsoft.Json.dll
+C:\Users\PhatiphanEmkovit\source\repos\PDFALib\PDFALib\bin\Release\Newtonsoft.Json.xml
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210325_1804\Source Code\PDFALib\bin\Release\PDFALib.exe
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210325_1804\Source Code\PDFALib\bin\Release\PDFALib.pdb
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210325_1804\Source Code\PDFALib\bin\Release\BouncyCastle.Crypto.dll
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210325_1804\Source Code\PDFALib\bin\Release\itextsharp.dll
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210325_1804\Source Code\PDFALib\bin\Release\Newtonsoft.Json.dll
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210325_1804\Source Code\PDFALib\bin\Release\itextsharp.xml
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210325_1804\Source Code\PDFALib\bin\Release\Newtonsoft.Json.xml
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210325_1804\Source Code\PDFALib\obj\Release\PDFALib.csprojAssemblyReference.cache
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210325_1804\Source Code\PDFALib\obj\Release\PDFALib.csproj.CoreCompileInputs.cache
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210325_1804\Source Code\PDFALib\obj\Release\PDFALib.csproj.CopyComplete
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210325_1804\Source Code\PDFALib\obj\Release\PDFALib.exe
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210325_1804\Source Code\PDFALib\obj\Release\PDFALib.pdb
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210407_1037\Source Code\PDFALib\bin\Release\PDFALib.exe
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210407_1037\Source Code\PDFALib\bin\Release\PDFALib.pdb
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210407_1037\Source Code\PDFALib\bin\Release\BouncyCastle.Crypto.dll
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210407_1037\Source Code\PDFALib\bin\Release\itextsharp.dll
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210407_1037\Source Code\PDFALib\bin\Release\Newtonsoft.Json.dll
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210407_1037\Source Code\PDFALib\bin\Release\itextsharp.xml
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210407_1037\Source Code\PDFALib\bin\Release\Newtonsoft.Json.xml
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210407_1037\Source Code\PDFALib\obj\Release\PDFALib.csprojAssemblyReference.cache
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210407_1037\Source Code\PDFALib\obj\Release\PDFALib.csproj.CoreCompileInputs.cache
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210407_1037\Source Code\PDFALib\obj\Release\PDFALib.csproj.CopyComplete
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210407_1037\Source Code\PDFALib\obj\Release\PDFALib.exe
+E:\OneDrive\FRONTIS\ETDA\04 Development\02 Library\02 PDF A3 Converter\.net\20210407_1037\Source Code\PDFALib\obj\Release\PDFALib.pdb
+D:\2025_ADTE_eTax-Invoice-By-eMail\Tools\02_PDFA3Converter\.NET\SourceCode\Source Code\PDFALib\bin\Release\PDFALib.exe
+D:\2025_ADTE_eTax-Invoice-By-eMail\Tools\02_PDFA3Converter\.NET\SourceCode\Source Code\PDFALib\bin\Release\PDFALib.pdb
+D:\2025_ADTE_eTax-Invoice-By-eMail\Tools\02_PDFA3Converter\.NET\SourceCode\Source Code\PDFALib\bin\Release\BouncyCastle.Crypto.dll
+D:\2025_ADTE_eTax-Invoice-By-eMail\Tools\02_PDFA3Converter\.NET\SourceCode\Source Code\PDFALib\bin\Release\itextsharp.dll
+D:\2025_ADTE_eTax-Invoice-By-eMail\Tools\02_PDFA3Converter\.NET\SourceCode\Source Code\PDFALib\bin\Release\Newtonsoft.Json.dll
+D:\2025_ADTE_eTax-Invoice-By-eMail\Tools\02_PDFA3Converter\.NET\SourceCode\Source Code\PDFALib\bin\Release\itextsharp.xml
+D:\2025_ADTE_eTax-Invoice-By-eMail\Tools\02_PDFA3Converter\.NET\SourceCode\Source Code\PDFALib\bin\Release\Newtonsoft.Json.xml
+D:\2025_ADTE_eTax-Invoice-By-eMail\Tools\02_PDFA3Converter\.NET\SourceCode\Source Code\PDFALib\obj\Release\PDFALib.csproj.AssemblyReference.cache
+D:\2025_ADTE_eTax-Invoice-By-eMail\Tools\02_PDFA3Converter\.NET\SourceCode\Source Code\PDFALib\obj\Release\PDFALib.csproj.CoreCompileInputs.cache
+D:\2025_ADTE_eTax-Invoice-By-eMail\Tools\02_PDFA3Converter\.NET\SourceCode\Source Code\PDFALib\obj\Release\PDFALib.csproj.Up2Date
+D:\2025_ADTE_eTax-Invoice-By-eMail\Tools\02_PDFA3Converter\.NET\SourceCode\Source Code\PDFALib\obj\Release\PDFALib.exe
+D:\2025_ADTE_eTax-Invoice-By-eMail\Tools\02_PDFA3Converter\.NET\SourceCode\Source Code\PDFALib\obj\Release\PDFALib.pdb
